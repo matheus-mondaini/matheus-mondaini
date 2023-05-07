@@ -1,4 +1,3 @@
-![logo](https://github.com/matheus-mondaini/matheus-mondaini/blob/main/Matheus%20Mondaini.png)
 <h1 align="center">Hi 👋, I'm Matheus Mondaini</h1>
 <h3 align="center">A passionate Software Engineer and AI developer from Brazil</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
