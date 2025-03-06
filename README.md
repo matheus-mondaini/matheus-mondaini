@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=matheus-mondaini&label=Profile%20views&color=0e75b6&style=flat" alt="matheusmondaini" /> </p>
 
-- 💼 I work at **CDS - Software** as a **Data Scientist**
+- 💼 I work at **StartSe** as an **AI Developer**
 
 - 📚 I’m currently learning **Computer Science for Artificial Intelligence**
 
